@@ -52,9 +52,13 @@ Monthly sales trends help identify peak and low sales periods
 Region and category comparisons enable better business planning
 
 📂 Project Structure
+
 📁 Interactive-Sales-Analytics-Dashboard
+
  ├── 📊 Dashboard File
+ 
  ├── 📁 Dataset
+ 
  └── README.md
 
 🚀 Use Cases
